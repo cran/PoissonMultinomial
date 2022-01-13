@@ -1,0 +1,7 @@
+useDynLib(PoissonMultinomial, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+importFrom("stats", "runif")
+
+export(dpmd)
+export(ppmd)
+export(rpmd)
