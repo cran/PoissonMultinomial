@@ -1,14 +1,14 @@
-c70370f7acbd0f224f579698bb2d5b21 *DESCRIPTION
+68914aee2dbc866ed78341bdc86d3f60 *DESCRIPTION
 f5a46e118616d6c73b0de07de9f7e2e7 *NAMESPACE
 63e60180953196dda78a7faee8fa2166 *R/Poisson-Multinomial_functions.R
 d152eea0e39549db7e4c47d324d15237 *R/RcppExports.R
 9e4cd4fe5a1ec4e8ae56eb568ce44f1d *R/non-exported_functions.R
 f4d5393112ef5ec5982a087359da0469 *inst/include/PoissonMultinomial.h
 fb6b194a9032288703a5555240b2e7e2 *inst/include/PoissonMultinomial_RcppExports.h
-e771ad080ad969d81ddf9df319c70ead *man/dpmd.Rd
+5d6c334edd7698155cfd23f63c9ff215 *man/dpmd.Rd
 2852ad2f01984184c9419202c8d866b5 *man/ppmd.Rd
 7a7742059bd03c08799a0250d59063ed *man/rpmd.Rd
 cbfaa4fe1cafb4eda2fe3bc01f299fce *src/Makevars
 f4e8557195d5ac2c04c98bfd15e3cff8 *src/Makevars.win
-00b8329c2c6082148bd5d65a8ee15eab *src/RcppExports.cpp
+873fc3e8e598febfe77df123d5e1ef04 *src/RcppExports.cpp
 199723d04eb711444039a14f0a41edbe *src/pm-fft.cpp

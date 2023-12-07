@@ -82,5 +82,5 @@ dpmd(pmat = pp, xmat = x1, method = "SIM", B = 1e3)
 
 }
 \references{
-Lin, Z., Wang, Y., and Hong, Y. (2022). The Poisson Multinomial Distribution and Its Applications in Voting Theory, Ecological Inference, and Machine Learning, arXiv:2201.04237.
+Lin, Z., Wang, Y., and Hong, Y. (2023). The computing of the Poisson multinomial distribution and applications in ecological inference and machine learning, Computational Statistics, Vol. 38, pp. 1851-1877.
 }
